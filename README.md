@@ -13,6 +13,42 @@ The application provides CRUD operations for students and courses, manages their
 - **Build Tool:** Maven
 - **IDE:** Eclipse
 
+## API Testing Screenshots
+
+The REST APIs were tested using Postman.
+
+### Course Management
+
+**1. Add Course (POST)**
+
+![Add Course](screenshots/add-course.png)
+
+**2. Get All Courses (GET)**
+
+![Get All Courses](screenshots/get-all-courses.png)
+
+**3. Update Course (PUT)**
+
+![Update Course](screenshots/update-course.png)
+
+### Student Management
+
+**1. Add Student (POST)**
+
+![Add Student](screenshots/add-student.png)
+
+**2. Get All Students (GET)**
+
+![Get All Students](screenshots/get-all-students.png)
+
+**3. Get Student by ID (GET)**
+
+![Get Student by ID](screenshots/get-student-by-id.png)
+
+**4. Update Student (PUT)**
+
+![Update Student](screenshots/update-student.png)
+
 ## Features
 
 ### Student Management
